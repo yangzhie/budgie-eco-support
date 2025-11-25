@@ -1,0 +1,4 @@
+name: BudgieEcoSupport
+version: '1.0.0'
+main: org.yangzhie.budgieEcoSupport.BudgieEcoSupport
+api-version: '1.21'
